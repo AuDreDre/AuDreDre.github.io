@@ -1,0 +1,28 @@
+html {height: 100%;
+background-color:#f2d091}
+
+header {background-color: #82aa64;
+padding-left: 50px;
+border: 15px solid #f24aea;
+font-size: 40px;
+display: block;
+margin-bottom: 20px;
+padding-right: 50px;
+text-align: center}
+
+article {background-color: #4a97f2;
+font-size: 20px;
+display: block;
+padding-left: 50px;
+padding-right: 50px;
+text-align: center;
+border: 1px solid #4a97f2;}
+
+body {display: block;
+margin-bottom: 250px;
+padding-left: 50px;
+padding-right: 50px;
+text-align: center;
+image-resolution: 50 px}
+
+img {size: 5 cm}
